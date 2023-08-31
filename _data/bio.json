@@ -6,7 +6,7 @@
     "email": "wsdwight@hawaii.edu",
     "phone": "650-380-9517",
     "website": "https://wsdwight1.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2024.",
+    "summary": "Army SOF veteran changing gears and studying for a B.S. in Computer Science at the University of Hawaii. I expect to graduate in Fall, 2024.",
     "location": { "address": "", "postalCode": "96813", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "wsdwight1", "url": "https://github.com/wsdwight1" },
@@ -14,16 +14,16 @@
     ]
   },
   "interests": [
-    { "name": "" }
+    { "name": "AI", "Website Development", "Game Design" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", , "Python" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows", "Github" ]
     }
   ],
   "education": [
@@ -39,12 +39,12 @@
   ],
   "work": [
     {
-      "company": "",
-      "position": "",
+      "company": "1st Battalion, 75th Ranger Regiment",
+      "position": "Team Leader",
       "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "May 2018",
+      "endDate": "August 2022",
+      "summary": "I started my career in the United States Army in May, 2018. I passed the Ranger Assessment and Selection Program (RASP) and was assigned to 1st Ranger battalion. Throughout my 4 years in the Army my mental and physical strength was tested, exposing both the good and the bad about my character which forced me to grow as an individual. As I neared the end of my military service I gained responsibility as a team leader and experience managing, mentoring and teaching new Rangers.",
       "highlights": [
         ""
       ]
