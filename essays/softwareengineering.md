@@ -1,12 +1,12 @@
 ---
 layout: essay
 type: essay
-title: "Interest in Software Engineering"
+title: "Software Engineering Journey"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-31
 published: true
 labels:
   - Engineering
 ---
-*Exploring JavaScript*
+*Software Engineering Journey*
 ## Introduction
