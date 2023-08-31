@@ -19,7 +19,7 @@ One similarity between Java and JavaScript to note is their platform independenc
 ## Key Takeaways from ES6
 JavaScript has many advantages with its abstraction. For example: arrow functions, classes, and template literals. Arrow functions allow for clear syntax, enhancing readability. This allows the programmer to declare functions without the ‘function’ keyword. There is no need for a return statement, or an arguments object, either. You can write a simple function, for example to multiply two integers, on one line. 
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/arrow.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/arrow.jpg">
 
 Classes are quickly defined in JavaScript as opposed to C, C++ and Java. The syntax is more concise. The constructor method is called automatically, and there are no required access modifiers like ‘public’ or ‘private’. You can also change the behavior of a class and its methods after you define it. This makes the language more accessible and clear, which is ideal for web development. 
 
