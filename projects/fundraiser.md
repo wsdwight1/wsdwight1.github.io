@@ -2,7 +2,7 @@ layout: project
 type: project
 image: 
 title: "Veteran Fundraiser"
-date: 2014
+date: 2022
 published: true
 labels:
   - fundraiser
