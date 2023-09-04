@@ -1,4 +1,3 @@
-![image](https://github.com/wsdwight1/wsdwight1.github.io/assets/143677966/cfa54cd3-bc5a-472d-8856-9430bbe17a11)---
 layout: project
 type: project
 image: 
