@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/heli.jpg
 title: "Veteran Fundraiser"
 date: 2022
 published: true
