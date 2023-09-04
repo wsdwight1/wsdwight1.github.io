@@ -6,7 +6,7 @@ date: 2022
 published: true
 labels:
   - fundraiser
-  - hunting
+
 summary: "Represented my unit (1st Ranger Battalion) at a fundraiser for the Warrior Connection & The Warrior Ranch"
 ---
 <div class="text-center p-4">
