@@ -17,4 +17,4 @@ labels:
 
 ## ESLint and IntelliJ 
 
-# Conclusion: Better Software Quality
+## Conclusion: Better Software Quality
