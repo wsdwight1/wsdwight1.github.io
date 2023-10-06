@@ -22,7 +22,7 @@ Tools like Bootstrap 5 will increase development speed. With Bootstrap you can e
 ## My Initial Impressions of Bootstrap 5
 Bootstrap 5 introduced me to UI Frameworks, and I must admit the experience was initially overwhelming. Previously I have only worked with HTML and CSS, with my limited knowledge of web design. The amount of components at my disposal was daunting, but I quickly overcame that and now appreciate the method behind the design. The standardization allowed me to focus on the broader design and I spent less time lining up every element of the UI, and focusing on the broader picture. Once I understood the process, I spent less time looking up syntax, or how to implement a requirement. As I become more familiar with this tool and its quirks my coding efficiency is rapidly increasing. 
 
-*Example of webpage built with Bootstrap 5*
+*Example of web page built with Bootstrap 5*
 ![My Image](https://adminlte.io/wp-content/uploads/2021/06/websites-made-with-bootstrap.jpg)
 
 *Example of web page with HTML/CSS only*
