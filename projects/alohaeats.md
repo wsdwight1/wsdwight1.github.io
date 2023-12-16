@@ -39,7 +39,7 @@ Aloha Eats is a web application designed for both vendors and customers in the f
 
 ## My Contributions
 Here is a summary of what I personally contributed to this project:
-1. Landing Page: Designed and implemented the landing page, using css styles.
+1. Pages: Designed and implemented the landing page, and initial implementations of the Foods Available Now, Top Picks, Vendor Home, Admin Home, My Preferences, and add/edit pages for vendors and admins.
    
 2. User Authentication and Account Management: Implemented features for user registration, login, and preferences management, including handling vendor-specific information.
 
