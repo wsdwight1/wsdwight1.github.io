@@ -4,7 +4,7 @@ type: project
 image: img/heli.jpg
 title: "Veteran Fundraiser"
 date: 2022
-published: true
+published: false
 labels:
   - fundraiser
 
