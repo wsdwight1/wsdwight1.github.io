@@ -39,24 +39,26 @@ Aloha Eats is a web application designed for both vendors and customers in the f
 
 ## My Contributions
 Here is a summary of what I personally contributed to this project:
-1. User Authentication and Account Management: Implemented features for user registration, login, and preferences management, including handling vendor-specific information.
+1. Landing Page: Designed and implemented the landing page, using css styles.
+   
+2. User Authentication and Account Management: Implemented features for user registration, login, and preferences management, including handling vendor-specific information.
 
-2. Food Item Management: Developed the functionality for admins to manage food items. This includes adding, editing, and deleting items, as well as marking certain items as top picks.
+3. Food Item Management: Developed the functionality for admins to manage food items. This includes adding, editing, and deleting items, as well as marking certain items as top picks.
 
-3. User Preferences System: You created a system where users can set their cuisine and dietary preferences. This involved handling user preferences data and ensuring these preferences influence the food items displayed to the user.
+4. User Preferences System: You created a system where users can set their cuisine and dietary preferences. This involved handling user preferences data and ensuring these preferences influence the food items displayed to the user.
 
-4. Admin Panel Development: Developed an admin panel where administrators can manage various aspects of the application, including user accounts, vendor information, and food items.
+5. Admin Panel Development: Developed an admin panel where administrators can manage various aspects of the application, including user accounts, vendor information, and food items.
 
-5. Filtered Views and Custom Queries: Worked on creating filtered views of food items based on user preferences. This involved writing custom queries and logic to filter food items according to user-set preferences.
+6. Filtered Views and Custom Queries: Worked on creating filtered views of food items based on user preferences. This involved writing custom queries and logic to filter food items according to user-set preferences.
 
-6. Front-End Development: Front-end development using React.js, including creating various components like food items lists, vendor information, and user preferences forms.
+7. Front-End Development: Front-end development using React.js, including creating various components like food items lists, vendor information, and user preferences forms.
 
-7. Database Schema Design: Designed and defined the database schema for different collections: Foods, UserPreferences, and vendors, utilizing MongoDB and SimpleSchema.
+8. Database Schema Design: Designed and defined the database schema for different collections: Foods, UserPreferences, and vendors, utilizing MongoDB and SimpleSchema.
 
-8. Design Implementation: Implemented Bootstrap for responsive design, to make the application accessible and user-friendly across different devices.
+9. Design Implementation: Implemented Bootstrap for responsive design, to make the application accessible and user-friendly across different devices.
 
-9. Error Handling: Worked on error handling in various parts of the application, including form submissions and database operations.
+10. Error Handling: Worked on error handling in various parts of the application, including form submissions and database operations.
 
-10. User Experience: Made several enhancements to the user interface and experience, including adding confirmation messages, and refining page layouts.
+11. User Experience: Made several enhancements to the user interface and experience, including adding confirmation messages, and refining page layouts.
 
 source code: <a href="https://github.com/ManoaMunchies"><i class="large github icon "></i>Project Page</a>
