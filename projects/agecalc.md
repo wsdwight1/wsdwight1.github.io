@@ -4,7 +4,7 @@ type: project
 image: img/calc.png
 title: "Age Calculator"
 date: 2023
-published: true
+published: false
 labels:
   - C
   - algorithms
