@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Percolation | Will Dwight | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/wsdwight1.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Will Dwight | Professional Portfolio">
+    <meta property="og:url" content="https://wsdwight1.github.io//projects/percolation.html">
+    <meta property="og:title" content="Percolation | Will Dwight | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/wsdwight1.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Percolation | Will Dwight | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Will Dwight</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Percolation</h1>
+ <p>Before returning to college and finishing my upper level computer science courses, I thought it might be a good idea to refresh my programming skills. So, I made this percolation program in Java in Fall 2022 as a part of Coursera’s free online algorithms course.</p>
+
+<p>Percolation refers whether a substance is able to flow through a material through connected pathways. For example, if water can flow through a system of rocks. A system percolates if the substance can reach a given end point from a start point. In this case, the system is represented by an nxn grid, with sites that are either open or closed. The system will percolate if an open site on the top row is connected to an open site on the bottom row.</p>
+
+<p>The program consists of two classes: Percolation and PercolationStats. Percolation has methods to open a site given a grid, check if a site is open, check if a site is full (meaning the site can connect to an open site on the top row), return the number of open sites, and lastly a boolean method to determine if the system percolates. The PercolationStats class has methods to report useful information after running experiments on different sites. The goal is to find the probability that a system will percolate with sites randomly opening with probability p.</p>
+
+<p><img class="img-threshold" width="300px" src="../img/percolation-threshold.png" /></p>
+
+<p>The “Monte Carlo simmulation” runs this computation experiment: Initiliaze all sites to be blocked, the choose a site randomly to open from sites that are blocked, and open the site. Repeat until the system percolates. The percentage of sites that are open when the system percolates gives the “percolation threshold”.</p>
+
+<p>source code: <a href="https://github.com/wsdwight1/Percolation/blob/main/Percolation.java"><i class="large github icon "></i>Percolation</a></p>
+
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>

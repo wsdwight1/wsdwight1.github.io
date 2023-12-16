@@ -1,0 +1,109 @@
+{
+  "basics": {
+    "name": "Will Dwight",
+    "label": "Student",
+    "picture": "https://github.com/wsdwight1.png",
+    "email": "wsdwight@hawaii.edu",
+    "phone": "650-380-9517",
+    "website": "https://wsdwight1.github.io",
+    "summary": "Army SOF veteran changing gears and studying for a B.S. in Computer Science at the University of Hawaii. I expect to graduate in Fall, 2024.",
+    "location": { "address": "", "postalCode": "96813", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "wsdwight1", "url": "https://github.com/wsdwight1" },
+      { "network": "linkedin", "username": "willdwight", "url": "https://www.linkedin.com/in/willdwight/" },
+    ]
+  },
+  "interests": [
+    { "name": "AI" }, { "name": "Website Development" } , { "name": "Game Design" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows", "Github" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2018)",
+      "studyType": "B.S.",
+      "startDate": "2022-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "1st Battalion, 75th Ranger Regiment",
+      "position": "Team Leader",
+      "website": "",
+      "startDate": "May 2018",
+      "endDate": "August 2022",
+      "summary": "I started my career in the United States Army in May, 2018. I passed the Ranger Assessment and Selection Program (RASP) and was assigned to 1st Ranger battalion. Throughout my 4 years in the Army my mental and physical strength was tested, exposing both the good and the bad about my character which forced me to grow as an individual. As I neared the end of my military service I gained responsibility as a team leader and experience managing, mentoring and teaching new Rangers.",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "",
+        ""
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "",
+        ""
+      ]
+    },
+    {
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
