@@ -19,3 +19,4 @@ The website features a home page, a shop index page, three pages for each produc
 
 <img class="img-threshold" width = "800px" src="../img/shoppage.png">
 
+Link to Github Repository: <a href="https://github.com/wsdwight1/deewebsite">Link to Github Repository</a>
