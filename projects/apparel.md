@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/calc.png
+image: img/thumbnail.png
 title: "Deestroyed Apparel"
 date: 2023
 published: true
