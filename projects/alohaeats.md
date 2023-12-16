@@ -1,10 +1,10 @@
 ---
 layout: project
 type: project
-image: img/calc.png
+image: img/ah.png
 title: "Aloha Eats"
 date: 2023
-published: false
+published: true
 labels:
   - Meteor
   - React
